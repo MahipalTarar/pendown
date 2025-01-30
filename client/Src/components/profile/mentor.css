@@ -1,0 +1,22 @@
+.img-background-profile{
+    background-image: url(../../img/mentorBg.jpg);
+    background-size: cover;
+}
+
+.text-area-height{   
+    height: 20rem;
+}
+p{
+    color: black;
+}
+
+.widthcardstudent{
+    width: 18rem;
+}
+
+
+.studenttextstyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+

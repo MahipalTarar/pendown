@@ -1,0 +1,12 @@
+.notebackground{
+    padding: 20px 20px;
+    background-color: black;
+    
+}
+.addnote{
+    color: white;
+}
+.notecard{
+    
+    background-image: linear-gradient(black,blue);
+}

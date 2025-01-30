@@ -1,0 +1,17 @@
+
+ul li a{
+    text-align: end;
+}
+.btn{
+    border-color: orange;
+}
+.btn :hover{
+    background: rgb(232, 125, 19)
+}
+
+ul li a:hover{
+    color: rgb(116, 11, 11);
+}
+.nav-link{
+    cursor: pointer;
+}

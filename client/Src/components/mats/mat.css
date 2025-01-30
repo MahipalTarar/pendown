@@ -1,0 +1,14 @@
+.bodymat{
+    background-image: url(../../img/studyMaterialBg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+}
+.addmat{
+    color: white;
+}
+.matcard{
+    
+    background-image: linear-gradient(black,rgb(243, 243, 247));
+}
